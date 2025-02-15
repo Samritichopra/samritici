@@ -1,4 +1,4 @@
-fnFROM busybox
+FROM busybox
 MAINTAINER SAMRITI <samritichopra@igtsolutions.com>
 ADD index.html /www/index.html
 EXPOSE 8000
